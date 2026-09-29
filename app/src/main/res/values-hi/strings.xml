@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MindSync</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">आपका ऑफ़लाइन AI सहायक</string>
+    <string name="feature_refiner_title">दस्तावेज़ शोधक</string>
+    <string name="feature_refiner_subtitle">सारांश निकालें, व्याकरण सुधारें या टेक्स्ट को सुधारें</string>
+    <string name="feature_reply_title">स्मार्ट जवाब</string>
+    <string name="feature_reply_subtitle">ईमेल या संदेशों के लिए जवाब तैयार करें</string>
+    <string name="feature_creative_title">रचनात्मक लेखक</string>
+    <string name="feature_creative_subtitle">विचार, कविताएं या पात्र प्रोफाइल प्राप्त करें</string>
+    <string name="feature_email_title">ईमेल लिखें</string>
+    <string name="feature_email_subtitle">नोट्स से पेशेवर ईमेल ड्राफ्ट करें</string>
+    <string name="feature_caption_title">सोशल मीडिया कैप्शन</string>
+    <string name="feature_caption_subtitle">पोस्ट के लिए आकर्षक कैप्शन तैयार करें</string>
+
+    <!-- Document Refiner Screen -->
+    <string name="refiner_title">दस्तावेज़ शोधक</string>
+    <string name="refiner_input_label">दस्तावेज़ पेस्ट करें, टाइप करें या अपलोड करें…</string>
+    <string name="refiner_advice">💡 सर्वोत्तम प्रदर्शन के लिए, .txt फ़ाइलों की अनुशंसा की जाती है। बड़े PDF धीमे हो सकते हैं या ऐप की क्षमता को प्रभावित कर सकते हैं।</string>
+    <string name="refiner_task_label">कार्य चुनें</string>
+    <string name="refiner_button_text">दस्तावेज़ को निखारें</string>
+    <string name="refiner_result_title">परिणाम</string>
+    <string name="refiner_option_summarize">सारांश</string>
+    <string name="refiner_option_grammar">व्याकरण और वर्तनी सुधारें</string>
+    <string name="refiner_option_blog">इसे एक औपचारिक ब्लॉग पोस्ट बनाएं</string>
+    <string name="refiner_option_minutes">मीटिंग मिनट्स बनाएं</string>
+
+    <!-- Help Screen -->
+    <string name="help_title">सहायता और समर्थन</string>
+    <string name="help_about_title">MindSync के बारे में</string>
+    <string name="help_about_desc">MindSync एक 100% ऑफ़लाइन AI टूलकिट है। आपका डेटा कभी भी आपके डिवाइस से बाहर नहीं जाता है, जिससे पूरी गोपनीयता और सुरक्षा सुनिश्चित होती है।</string>
+    <string name="help_usage_title">उपयोग कैसे करें</string>
+    <string name="help_usage_desc">1. होम स्क्रीन से एक टूल चुनें।\n2. अपना टेक्स्ट पेस्ट करें या दस्तावेज़ (.txt या .pdf) अपलोड करें।\n3. AI को अपनी रिक्वेस्ट प्रोसेस करने देने के लिए एक्शन बटन पर क्लिक करें।\n4. जनरेट किए गए परिणाम को कॉपी करें या उपयोग करें।</string>
+    <string name="help_faq_title">सामान्य प्रश्न</string>
+    <string name="help_faq_q1">400MB डाउनलोड क्यों था?</string>
+    <string name="help_faq_a1">वह AI मॉडल ही था। यह स्थानीय रूप से स्टोर किया जाता है ताकि आप कहीं भी ऐप का उपयोग कर सकें।</string>
+    <string name="help_faq_q2">क्या मेरा डेटा सुरक्षित है?</string>
+    <string name="help_faq_a2">हाँ। अन्य AI ऐप्स के विपरीत, MindSync आपका टेक्स्ट किसी सर्वर पर नहीं भेजता है।</string>
+
+    <!-- Other Screens -->
+    <string name="email_title">ईमेल लिखें</string>
+    <string name="caption_title">सोशल मीडिया कैप्शन</string>
+    <string name="reply_title">स्मार्ट जवाब</string>
+    <string name="creative_title">रचनात्मक लेखक</string>
+    <string name="back_button">पीछे</string>
+    <string name="upload_button">फ़ाइल अपलोड करें</string>
+    <string name="help_button">सहायता</string>
+</resources>

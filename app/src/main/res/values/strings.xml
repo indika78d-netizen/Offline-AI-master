@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">MindSync</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Your Offline AI Assistant</string>
+    <string name="feature_chat_title">Chat with AI</string>
+    <string name="feature_chat_subtitle">Have a free-form conversation with your AI</string>
+    <string name="feature_refiner_title">Document Refiner</string>
+    <string name="feature_refiner_subtitle">Summarize, fix grammar, or reformat text</string>
+    <string name="feature_reply_title">Smart Reply</string>
+    <string name="feature_reply_subtitle">Generate replies to emails or messages</string>
+    <string name="feature_translator_title">Translator</string>
+    <string name="feature_translator_subtitle">Translate text between 10+ languages offline</string>
+    <string name="feature_creative_title">Creative Writer</string>
+    <string name="feature_creative_subtitle">Get ideas, poems, or character profiles</string>
+    <string name="feature_email_title">Write an Email</string>
+    <string name="feature_email_subtitle">Draft professional emails from notes</string>
+    <string name="feature_caption_title">Social Media Caption</string>
+    <string name="feature_caption_subtitle">Generate engaging captions for posts</string>
+
+    <!-- Screen Titles -->
+    <string name="refiner_title">Document Refiner</string>
+    <string name="reply_title">Smart Reply</string>
+    <string name="creative_title">Creative Writer</string>
+    <string name="email_title">Write an Email</string>
+    <string name="caption_title">Social Media Caption</string>
+    <string name="help_title">Help &amp; Support</string>
+
+    <!-- Model Setup Screen -->
+    <string name="setup_title">One-Time Model Setup</string>
+    <string name="setup_desc">MindSync needs to download the Qwen2.5-0.5B AI model (~350 MB) on first launch. After this, everything runs 100% offline — no internet required.</string>
+    <string name="setup_features">⚡ Fast · 🔒 Private · 📵 Offline After Setup</string>
+    <string name="setup_button">Download AI Model</string>
+    <string name="setup_downloading">Downloading AI Model…</string>
+    <string name="setup_ready">✅ Model Ready!</string>
+    <string name="setup_initializing">Initializing inference engine…</string>
+    <string name="setup_error_title">⚠️ Download Failed</string>
+    <string name="setup_retry">Retry</string>
+
+    <!-- Model Upgrade -->
+    <string name="setup_upgrade_title">🚀 Better AI Available!</string>
+    <string name="setup_upgrade_desc">MindSync has upgraded to Qwen2.5-0.5B — a smarter model with better reasoning and 100+ language support. A one-time download (~350 MB) is needed.</string>
+    <string name="setup_upgrade_features">✨ Better Reasoning · 🌍 100+ Languages · ⚡ Same Speed</string>
+    <string name="setup_upgrade_button">Upgrade AI Model</string>
+
+    <!-- Document Refiner Screen -->
+    <string name="refiner_input_label">Paste, type, or upload a document…</string>
+    <string name="refiner_advice">💡 For best performance, .txt files are recommended. Large PDFs or Word documents may be slow.</string>
+    <string name="refiner_task_label">Select Task</string>
+    <string name="refiner_button_text">Refine Document</string>
+    <string name="refiner_result_title">Result</string>
+    <string name="refiner_option_summarize">Summarize</string>
+    <string name="refiner_option_grammar">Fix Grammar &amp; Spelling</string>
+    <string name="refiner_option_blog">Make it a Formal Blog Post</string>
+    <string name="refiner_option_minutes">Create Meeting Minutes</string>
+
+    <!-- Help Screen -->
+    <string name="help_about_title">About MindSync</string>
+    <string name="help_about_desc">MindSync is a 100% offline, privacy-first AI assistant. Your documents, photos, and chat conversations never leave your device. All intelligence is processed locally on your phone\'s hardware without subscription fees or server tracking.</string>
+    <string name="help_tiers_title">AI Model Tiers (Lite vs Pro)</string>
+    <string name="help_tiers_desc">MindSync offers two on-device AI tiers tailored to your phone:\n\n• ⚡ MindSync Lite (0.5B, ~398 MB): Fast, lightweight, and battery-friendly. Ideal for budget phones with 2GB–3GB RAM for quick summaries, replies, and light tasks.\n\n• 🚀 MindSync Pro (1.5B, ~986 MB): High-intelligence reasoning model for phones with 4GB–6GB+ RAM. Delivers deeper reasoning, structured document drafting, and nuanced conversations.\n\nYou can switch tiers anytime from the Home screen or below.</string>
+    <string name="help_neural_title">Neural Network Capabilities</string>
+    <string name="help_neural_desc">• 📷 Offline Neural OCR: Tap the scanner icon in Document Refiner or Chat to photograph or select physical documents, receipts, or notes. Text is extracted instantly without the internet.\n\n• 🔊 Offline Voice Read-Aloud: Tap the speaker icon on any AI result or chat bubble to listen to the text read aloud using your phone\'s offline neural speech synthesizer.</string>
+    <string name="help_faq_title">Frequently Asked Questions</string>
+    <string name="help_faq_q1">Why do I need a one-time download?</string>
+    <string name="help_faq_a1">The download contains the neural weights of the AI model. Once stored on your phone, MindSync works 100% offline — even in Airplane Mode or off-grid.</string>
+    <string name="help_faq_q2">Does any data leave my device?</string>
+    <string name="help_faq_a2">Never. Unlike cloud-based AI apps (ChatGPT, Copilot, Claude), MindSync has no backend servers. All computation happens locally in your device\'s memory.</string>
+    <string name="help_faq_q3">How do I free up storage space?</string>
+    <string name="help_faq_a3">Tap the Model Badge on the Home screen or use the Model Manager below to delete any model you are not currently using.</string>
+    <string name="help_manage_models_btn">Manage AI Models</string>
+
+    <!-- Smart Reply Screen -->
+    <string name="reply_input_label">Paste the message you received here…</string>
+    <string name="reply_notes_label">What do you want to say in reply? (e.g. Accept, decline, ask for details)</string>
+    <string name="reply_button_text">Generate Reply</string>
+
+    <!-- Creative Writer Screen -->
+    <string name="creative_task_label">What would you like to write?</string>
+    <string name="creative_input_label">Provide a few keywords or a theme…</string>
+    <string name="creative_button_text">Generate Content</string>
+    <string name="creative_option_story">Generate Story Ideas</string>
+    <string name="creative_option_poem">Write a Poem</string>
+    <string name="creative_option_profile">Create a Character Profile</string>
+
+    <!-- Email Screen -->
+    <string name="email_to_label">To:</string>
+    <string name="email_subject_label">Subject:</string>
+    <string name="email_notes_label">Bullet points or notes to include…</string>
+    <string name="email_button_text">Generate Email</string>
+
+    <!-- Caption Screen -->
+    <string name="caption_input_label">Describe your post or image…</string>
+    <string name="caption_button_text">Create Caption</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_input_hint">Type a message…</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_clear">Clear conversation</string>
+    <string name="chat_empty_title">Start a Conversation</string>
+    <string name="chat_empty_subtitle">Ask anything — your AI runs 100% on device</string>
+    <string name="chat_thinking">Thinking…</string>
+
+    <!-- Translator Screen -->
+    <string name="translator_input_label">Enter text to translate…</string>
+    <string name="translator_target_label">Translate to:</string>
+    <string name="translator_button_text">Translate</string>
+
+    <!-- Common -->
+    <string name="back_button">Back</string>
+    <string name="upload_button">Upload File</string>
+    <string name="help_button">Help</string>
+    <string name="result_label">Result</string>
+    <string name="copy_button">Copy to Clipboard</string>
+    <string name="share_button">Share</string>
+    <string name="copied_toast">Copied to clipboard!</string>
+
+</resources>

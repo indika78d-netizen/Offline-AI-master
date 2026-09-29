@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MindSync</string>
+    <string name="home_title">Votre Assistant IA Hors Ligne</string>
+    <string name="feature_refiner_title">Affineur de Documents</string>
+    <string name="feature_refiner_subtitle">Résumer, corriger la grammaire ou reformater</string>
+    <string name="feature_reply_title">Réponse Intelligente</string>
+    <string name="feature_reply_subtitle">Générer des réponses aux e-mails ou messages</string>
+    <string name="feature_creative_title">Écrivain Créatif</string>
+    <string name="feature_creative_subtitle">Idées, poèmes ou profils de personnages</string>
+    <string name="feature_email_title">Écrire un E-mail</string>
+    <string name="feature_email_subtitle">Rédiger des e-mails pro à partir de notes</string>
+    <string name="feature_caption_title">Légende Réseaux Sociaux</string>
+    <string name="feature_caption_subtitle">Légendes engageantes pour vos publications</string>
+
+    <string name="refiner_title">Affineur de Documents</string>
+    <string name="refiner_input_label">Coller, taper ou charger un document…</string>
+    <string name="refiner_advice">💡 Pour de meilleures performances, les fichiers .txt sont recommandés. Les gros PDF peuvent être lents.</string>
+    <string name="refiner_task_label">Choisir une tâche</string>
+    <string name="refiner_button_text">Affiner le document</string>
+    <string name="refiner_result_title">Résultat</string>
+    <string name="refiner_option_summarize">Résumer</string>
+    <string name="refiner_option_grammar">Corriger Grammaire &amp; Orthographe</string>
+    <string name="refiner_option_blog">Convertir en article de blog formel</string>
+    <string name="refiner_option_minutes">Créer un compte-rendu de réunion</string>
+
+    <string name="help_title">Aide et Support</string>
+    <string name="help_about_title">À propos de MindSync</string>
+    <string name="help_about_desc">MindSync est une boîte à outils IA 100% hors ligne. Vos données ne quittent jamais votre appareil.</string>
+    <string name="help_usage_title">Comment utiliser</string>
+    <string name="help_usage_desc">1. Sélectionnez un outil.\n2. Collez du texte ou chargez un fichier.\n3. Cliquez sur le bouton d\'action.</string>
+    <string name="help_faq_title">FAQ</string>
+    <string name="help_faq_q1">Pourquoi ce téléchargement de 400 Mo ?</string>
+    <string name="help_faq_a1">C\'est le modèle d\'IA. Il est stocké localement.</string>
+    <string name="help_faq_q2">Mes données sont-elles en sécurité ?</string>
+    <string name="help_faq_a2">Oui. MindSync n\'envoie rien à aucun serveur.</string>
+
+    <string name="back_button">Retour</string>
+    <string name="upload_button">Charger un fichier</string>
+    <string name="help_button">Aide</string>
+</resources>

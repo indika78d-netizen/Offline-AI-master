@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MindSync</string>
+    <string name="home_title">Ihr Offline-KI-Assistent</string>
+    <string name="feature_refiner_title">Dokumenten-Optimierer</string>
+    <string name="feature_refiner_subtitle">Zusammenfassen, Grammatik korrigieren oder Text umformatieren</string>
+    <string name="feature_reply_title">Intelligente Antwort</string>
+    <string name="feature_reply_subtitle">Antworten auf E-Mails oder Nachrichten generieren</string>
+    <string name="feature_creative_title">Kreativer Schreiber</string>
+    <string name="feature_creative_subtitle">Ideen, Gedichte oder Charakterprofile erhalten</string>
+    <string name="feature_email_title">E-Mail schreiben</string>
+    <string name="feature_email_subtitle">Professionelle E-Mails aus Notizen entwerfen</string>
+    <string name="feature_caption_title">Social Media Bildunterschrift</string>
+    <string name="feature_caption_subtitle">Ansprechende Bildunterschriften für Beiträge generieren</string>
+
+    <string name="refiner_title">Dokumenten-Optimierer</string>
+    <string name="refiner_input_label">Dokument einfügen, tippen oder hochladen…</string>
+    <string name="refiner_advice">💡 Für beste Leistung werden .txt-Dateien empfohlen. Große PDFs können langsam sein oder die Kapazität der App übersteigen.</string>
+    <string name="refiner_task_label">Aufgabe auswählen</string>
+    <string name="refiner_button_text">Dokument optimieren</string>
+    <string name="refiner_result_title">Ergebnis</string>
+    <string name="refiner_option_summarize">Zusammenfassen</string>
+    <string name="refiner_option_grammar">Grammatik &amp; Rechtschreibung korrigieren</string>
+    <string name="refiner_option_blog">In formalen Blog-Post umwandeln</string>
+    <string name="refiner_option_minutes">Besprechungsprotokoll erstellen</string>
+
+    <string name="help_title">Hilfe &amp; Support</string>
+    <string name="help_about_title">Über MindSync</string>
+    <string name="help_about_desc">MindSync ist ein 100% Offline-KI-Toolkit. Ihre Daten verlassen niemals Ihr Gerät, was absolute Privatsphäre und Sicherheit garantiert.</string>
+    <string name="help_usage_title">Bedienung</string>
+    <string name="help_usage_desc">1. Wählen Sie ein Werkzeug aus.\n2. Fügen Sie Text ein oder laden Sie eine Datei hoch.\n3. Klicken Sie auf die Aktionstaste.</string>
+    <string name="help_faq_title">FAQ</string>
+    <string name="help_faq_q1">Warum gab es einen 400MB Download?</string>
+    <string name="help_faq_a1">Das war das KI-Modell selbst. Es wird lokal gespeichert, damit Sie die App überall verwenden können.</string>
+    <string name="help_faq_q2">Sind meine Daten sicher?</string>
+    <string name="help_faq_a2">Ja. MindSync sendet Ihren Text an keinen Server.</string>
+
+    <string name="back_button">Zurück</string>
+    <string name="upload_button">Datei hochladen</string>
+    <string name="help_button">Hilfe</string>
+</resources>

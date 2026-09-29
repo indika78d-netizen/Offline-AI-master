@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MindSync v1.2.0 — Liquid Skin Colors -->
+    <color name="liquid_deep_blue">#FF0A0E27</color>
+    <color name="liquid_navy_blue">#FF101935</color>
+    <color name="liquid_cyan">#FF00E5FF</color>
+    <color name="liquid_electric_blue">#FF448AFF</color>
+    <color name="liquid_purple">#FF7C4DFF</color>
+    <color name="liquid_text_primary">#FFF0F4FF</color>
+    <color name="liquid_text_secondary">#FFB0BFE6</color>
+    <color name="liquid_surface">#FF0F1429</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

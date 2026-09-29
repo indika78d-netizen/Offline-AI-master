@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1024dp"
+    android:height="500dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="500">
+
+    <!-- Background Gradient -->
+    <path
+        android:pathData="M0,0h1024v500h-1024z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="0"
+                android:startY="0"
+                android:endX="1024"
+                android:endY="500">
+                <item android:color="#0D1B3E" android:offset="0.0"/>
+                <item android:color="#0A0A1A" android:offset="1.0"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Large Logo (Scaled and Positioned) -->
+    <group
+        android:translateX="200"
+        android:translateY="120"
+        android:scaleX="3"
+        android:scaleY="3">
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M54,34c-11,0-20,9-20,20s9,20,20,20s20-9,20-20S65,34,54,34z M54,70c-8.8,0-16-7.2-16-16s7.2-16,16-16s16,7.2,16,16S62.8,70,54,70z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M51,51m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M57,57m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M52.5,52.5 L55.5,55.5"/>
+    </group>
+</vector>

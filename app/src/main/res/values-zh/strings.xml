@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MindSync</string>
+
+    <!-- 主屏幕 -->
+    <string name="home_title">您的离线人工智能助手</string>
+    <string name="feature_refiner_title">文档精炼器</string>
+    <string name="feature_refiner_subtitle">摘要、修复语法或重新格式化文本</string>
+    <string name="feature_reply_title">智能回复</string>
+    <string name="feature_reply_subtitle">生成电子邮件或消息的回复</string>
+    <string name="feature_creative_title">创意写作</string>
+    <string name="feature_creative_subtitle">获取灵感、诗歌或角色简介</string>
+    <string name="feature_email_title">撰写电子邮件</string>
+    <string name="feature_email_subtitle">根据笔记起草专业电子邮件</string>
+    <string name="feature_caption_title">社交媒体文案</string>
+    <string name="feature_caption_subtitle">为帖子生成吸引人的文案</string>
+
+    <!-- 文档精炼器屏幕 -->
+    <string name="refiner_title">文档精炼器</string>
+    <string name="refiner_input_label">粘贴、输入或上传文档…</string>
+    <string name="refiner_advice">💡 为了获得最佳性能，建议使用 .txt 文件。较大的 PDF 文件可能会运行缓慢或超出应用程序的处理能力。</string>
+    <string name="refiner_task_label">选择任务</string>
+    <string name="refiner_button_text">精炼文档</string>
+    <string name="refiner_result_title">结果</string>
+    <string name="refiner_option_summarize">摘要</string>
+    <string name="refiner_option_grammar">修复语法和拼写</string>
+    <string name="refiner_option_blog">制作正式博客文章</string>
+    <string name="refiner_option_minutes">创建会议纪要</string>
+
+    <!-- 帮助屏幕 -->
+    <string name="help_title">帮助与支持</string>
+    <string name="help_about_title">关于 MindSync</string>
+    <string name="help_about_desc">MindSync 是一款 100% 离线的人工智能工具包。您的数据永远不会离开您的设备，确保了绝对的隐私和安全。在初始设置后，它使用强大的本地语言模型处理您的请求，无需联网。</string>
+    <string name="help_usage_title">如何使用</string>
+    <string name="help_usage_desc">1. 从主屏幕选择一个工具。\n2. 粘贴文本或上传文档 (.txt 或 .pdf)。\n3. 点击操作按钮让 AI 处理您的请求。\n4. 复制或使用生成的结果。</string>
+    <string name="help_faq_title">常见问题</string>
+    <string name="help_faq_q1">为什么要下载 400MB 的内容？</string>
+    <string name="help_faq_a1">那是 AI 模型本身。它存储在本地，以便您可以在任何地方（甚至在飞行模式下）使用该应用。</string>
+    <string name="help_faq_q2">我的数据安全吗？</string>
+    <string name="help_faq_a2">是的。与其他 AI 应用不同，MindSync 不会将您的文本发送到任何服务器。所有处理完全在您的手机上完成。</string>
+
+    <!-- 其他屏幕 -->
+    <string name="email_title">撰写电子邮件</string>
+    <string name="caption_title">社交媒体文案</string>
+    <string name="reply_title">智能回复</string>
+    <string name="creative_title">创意写作</string>
+    <string name="back_button">返回</string>
+    <string name="upload_button">上传文件</string>
+    <string name="help_button">帮助</string>
+</resources>

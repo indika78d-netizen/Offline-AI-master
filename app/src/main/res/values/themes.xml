@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MindSync v1.2.0 — Liquid Skin XML Theme -->
+    <style name="Theme.OfflineAI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/liquid_deep_blue</item>
+        <item name="android:navigationBarColor">@color/liquid_deep_blue</item>
+        <item name="android:windowBackground">@color/liquid_deep_blue</item>
+        <item name="android:colorPrimary">@color/liquid_electric_blue</item>
+        <item name="android:colorAccent">@color/liquid_cyan</item>
+    </style>
+</resources>

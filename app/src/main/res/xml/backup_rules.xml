@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Backup rules for Android 12 and below.
+   Exclude the large AI model directory from cloud backup.
+-->
+<full-backup-content>
+    <exclude domain="file" path="models/" />
+</full-backup-content>

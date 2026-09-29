@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MindSync</string>
+    <string name="home_title">Tu Asistente de IA Sin Conexión</string>
+    <string name="feature_refiner_title">Refinador de Documentos</string>
+    <string name="feature_refiner_subtitle">Resume, corrige gramática o reformatea texto</string>
+    <string name="feature_reply_title">Respuesta Inteligente</string>
+    <string name="feature_reply_subtitle">Genera respuestas para correos o mensajes</string>
+    <string name="feature_creative_title">Escritor Creativo</string>
+    <string name="feature_creative_subtitle">Obtén ideas, poemas o perfiles de personajes</string>
+    <string name="feature_email_title">Escribir un Correo</string>
+    <string name="feature_email_subtitle">Redacta correos profesionales desde notas</string>
+    <string name="feature_caption_title">Leyenda para Redes Sociales</string>
+    <string name="feature_caption_subtitle">Genera leyendas atractivas para publicaciones</string>
+
+    <string name="refiner_title">Refinador de Documentos</string>
+    <string name="refiner_input_label">Pega, escribe o sube un documento…</string>
+    <string name="refiner_advice">💡 Para un mejor rendimiento, se recomiendan archivos .txt. Los PDFs grandes pueden ser lentos o superar la capacidad de la app.</string>
+    <string name="refiner_task_label">Seleccionar Tarea</string>
+    <string name="refiner_button_text">Refinar Documento</string>
+    <string name="refiner_result_title">Resultado</string>
+    <string name="refiner_option_summarize">Resumir</string>
+    <string name="refiner_option_grammar">Corregir Gramática y Ortografía</string>
+    <string name="refiner_option_blog">Convertir en Entrada de Blog Formal</string>
+    <string name="refiner_option_minutes">Crear Minutas de Reunión</string>
+
+    <string name="help_title">Ayuda y Soporte</string>
+    <string name="help_about_title">Acerca de MindSync</string>
+    <string name="help_about_desc">MindSync es un kit de herramientas de IA 100% sin conexión. Tus datos nunca salen de tu dispositivo, garantizando total privacidad y seguridad.</string>
+    <string name="help_usage_title">Cómo usar</string>
+    <string name="help_usage_desc">1. Selecciona una herramienta.\n2. Pega texto o sube un archivo.\n3. Haz clic en el botón de acción.</string>
+    <string name="help_faq_title">Preguntas Frecuentes</string>
+    <string name="help_faq_q1">¿Por qué hubo una descarga de 400MB?</string>
+    <string name="help_faq_a1">Ese era el modelo de IA. Se almacena localmente para que puedas usar la app en cualquier lugar.</string>
+    <string name="help_faq_q2">¿Mis datos están seguros?</string>
+    <string name="help_faq_a2">Sí. MindSync no envía tu texto a ningún servidor.</string>
+
+    <string name="back_button">Atrás</string>
+    <string name="upload_button">Subir Archivo</string>
+    <string name="help_button">Ayuda</string>
+</resources>

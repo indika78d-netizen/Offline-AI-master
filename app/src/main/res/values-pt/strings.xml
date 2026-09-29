@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MindSync</string>
+
+    <!-- Tela Inicial -->
+    <string name="home_title">Seu Assistente de IA Offline</string>
+    <string name="feature_refiner_title">Refinador de Documentos</string>
+    <string name="feature_refiner_subtitle">Resumir, corrigir gramática ou reformatar texto</string>
+    <string name="feature_reply_title">Resposta Inteligente</string>
+    <string name="feature_reply_subtitle">Gerar respostas para e-mails ou mensagens</string>
+    <string name="feature_creative_title">Escritor Criativo</string>
+    <string name="feature_creative_subtitle">Obtenha ideias, poemas ou perfis de personagens</string>
+    <string name="feature_email_title">Escrever um E-mail</string>
+    <string name="feature_email_subtitle">Rascunhar e-mails profissionais a partir de notas</string>
+    <string name="feature_caption_title">Legenda para Redes Sociais</string>
+    <string name="feature_caption_subtitle">Gerar legendas envolventes para postagens</string>
+
+    <!-- Tela do Refinador de Documentos -->
+    <string name="refiner_title">Refinador de Documentos</string>
+    <string name="refiner_input_label">Cole, digite ou envie um documento…</string>
+    <string name="refiner_advice">💡 Para melhor desempenho, arquivos .txt são recomendados. PDFs grandes podem ser lentos ou sobrecarregar a capacidade do app.</string>
+    <string name="refiner_task_label">Selecionar Tarefa</string>
+    <string name="refiner_button_text">Refinar Documento</string>
+    <string name="refiner_result_title">Resultado</string>
+    <string name="refiner_option_summarize">Resumir</string>
+    <string name="refiner_option_grammar">Corrigir Gramática e Ortografia</string>
+    <string name="refiner_option_blog">Transformar em Post de Blog Formal</string>
+    <string name="refiner_option_minutes">Criar Ata de Reunião</string>
+
+    <!-- Tela de Ajuda -->
+    <string name="help_title">Ajuda e Suporte</string>
+    <string name="help_about_title">Sobre o MindSync</string>
+    <string name="help_about_desc">MindSync é um kit de ferramentas de IA 100% offline. Seus dados nunca saem do seu dispositivo, garantindo total privacidade e segurança. Ele usa um modelo de linguagem local poderoso para processar suas solicitações sem precisar de internet após a configuração inicial.</string>
+    <string name="help_usage_title">Como usar</string>
+    <string name="help_usage_desc">1. Selecione uma ferramenta na tela inicial.\n2. Cole seu texto ou envie um documento (.txt ou .pdf).\n3. Clique no botão de ação para a IA processar seu pedido.\n4. Copie ou use o resultado gerado.</string>
+    <string name="help_faq_title">Perguntas Frequentes</string>
+    <string name="help_faq_q1">Por que houve um download de 400MB?</string>
+    <string name="help_faq_a1">Aquele era o próprio modelo de IA. Ele é armazenado localmente para que você possa usar o app em qualquer lugar, mesmo no modo avião.</string>
+    <string name="help_faq_q2">Meus dados estão seguros?</string>
+    <string name="help_faq_a2">Sim. Ao contrário de outros apps de IA, o MindSync não envia seu texto para nenhum servidor. Todo o processamento acontece inteiramente no seu celular.</string>
+
+    <!-- Outras Telas -->
+    <string name="email_title">Escrever um E-mail</string>
+    <string name="caption_title">Legenda para Redes Sociais</string>
+    <string name="reply_title">Resposta Inteligente</string>
+    <string name="creative_title">Escritor Criativo</string>
+    <string name="back_button">Voltar</string>
+    <string name="upload_button">Enviar Arquivo</string>
+    <string name="help_button">Ajuda</string>
+</resources>
